@@ -40,7 +40,51 @@ O Corinthians é conhecido por sua forte conexão com a comunidade e por sua tra
 ## status do Projeto
 
 
+
 <h4 align="center">
     em construçao :rocket:
 </h4>
 
+## Funcionalidade
+
+- [x] README com Markdown
+- [x] README com HTML
+- [] Badge
+
+## Pre-Requisitos
+
+- [VScode](https://code.visualstudio.com/)
+- [GIT](https://git-scm.com/)
+
+## Executar o Projeto
+
+```bash
+
+# Clone do repositorio
+git clone <path do repositorio>
+
+#Acesse a pasta do projeto via terminal
+cd meu-projeto
+
+#Abrir o VSCODE no <path do repositorio>
+code. 
+
+```
+
+## Mapa do Projeto
+
+```bash
++---img                  // Contém as imagens do README
++---temp                 // Paste temp para gerar tree
+   +---temp-1            // Paste temp para gerar tree
+   +---temp-2            // Paste temp para gerar tree 
++---temp copy            // Paste temp para gerar tree
+    +---temp-1           // Paste temp para gerar tree
+    +---temp-2           // Paste temp para gerar tree 
+ 
+```
+
+## Tecnologias Utilizados 
+
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+- [MARKDOWN](https://www.markdownguide.org/)
