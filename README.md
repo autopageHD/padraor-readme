@@ -79,7 +79,7 @@ code.
    +---temp-1            // Paste temp para gerar tree
    +---temp-2            // Paste temp para gerar tree 
 +---temp copy            // Paste temp para gerar tree
-    +---temp-1           // Paste temp para gerar tree
+    +---temp-1           // Paste temp para gerar treee
     +---temp-2           // Paste temp para gerar tree 
  
 ```
